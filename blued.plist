@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LinkKeys</key>
+	<dict>
+		<key>f8-ac-65-1c-9e-ee</key>
+		<dict>
+			<key>10-9a-dd-78-2d-bd</key>
+			<data>
+			w1o3mpsMt+0Rx+yk0bPkvA==
+			</data>
+			<key>34-88-5d-c7-dc-64</key>
+			<data>
+			M1jdheqW23J4hUPEg/rmmw==
+			</data>
+			<key>41-42-a9-69-7a-f6</key>
+			<data>
+			4gevzyRPONUtPB8taajQDA==
+			</data>
+			<key>ec-2c-e2-ef-36-ac</key>
+			<data>
+			7XNP6KVsWGIlgBLXUELaig==
+			</data>
+		</dict>
+	</dict>
+	<key>MagicCloudPairingMasterHint</key>
+	<data>
+	uzQNAtWCiZqkKdzpMLvD6Q==
+	</data>
+	<key>MagicCloudPairingMasterKey</key>
+	<data>
+	3o91P0UoB5FnOTsCe6GwYw==
+	</data>
+	<key>SMPCloudLocalNonce</key>
+	<data>
+	l3bN5/B1d2cSjWv9qpE7rw==
+	</data>
+	<key>SMPCloudLocalPrivateKey</key>
+	<data>
+	ONkMWiKaVEtAkTqpbmCUHLQ+B9hth4bjdFrryYMxIsGJiH9UdH8MUs0ZswGrob7ERIlw
+	RMIQIWmTylQ6L6oCtzpEhk0//kN2GZFQVgl1JErmb1YaO/ASeKKwbQBvD4IO
+	</data>
+	<key>SMPCloudLocalPublicKey</key>
+	<data>
+	ONkMWiKaVEtAkTqpbmCUHLQ+B9hth4bjdFrryYMxIsGJiH9UdH8MUs0ZswGrob7ERIlw
+	RMIQIWmTylQ6L6oCtw==
+	</data>
+</dict>
+</plist>
